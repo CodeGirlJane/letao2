@@ -1,0 +1,30 @@
+body {
+    background-color: #fff;
+}
+.lt_search {
+    margin-top: 10px;
+    padding: 0 10px;
+    position: relative;
+}
+.lt_search #search {
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    font-size: 12px;
+    border: 1px solid #006699;
+    border-radius:6px;
+}
+.lt_search #search_btn {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    z-index: 1;
+    background-color: #006699;
+    color: #FFFFFF;
+    height: 30px;
+    width: 60px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 0 6px 6px 0;
+}
